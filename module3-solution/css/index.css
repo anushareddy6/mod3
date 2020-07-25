@@ -7,8 +7,9 @@ h1{
 #one{
    border: 2px solid black;
    margin: 10px ;
-   background-color: grey;
+   background-color: #3ededb;
    font-family:Lucida Calligraphy;
+   height: 700px;
 }
 
 h2{
@@ -17,5 +18,13 @@ h2{
 
 .dropdown{
 	background-color: black;
+}
+
+.navbar-brand{
+	font-size:30px;
+	color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
 }
 
