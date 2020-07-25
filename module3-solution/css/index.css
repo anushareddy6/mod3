@@ -1,0 +1,21 @@
+
+
+h1{
+	font-family: Bernard MT;
+}
+
+#one{
+   border: 2px solid black;
+   margin: 10px ;
+   background-color: grey;
+   font-family:Lucida Calligraphy;
+}
+
+h2{
+	text-align: center;
+}
+
+.dropdown{
+	background-color: black;
+}
+
